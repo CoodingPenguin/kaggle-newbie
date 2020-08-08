@@ -6,13 +6,11 @@
 
 ## ✅ 체크표
 
-|      |  w1  | w2   | w3   | w4   | w5   | w6   | w7   | w8   | w9   | w10  | w11  | w12  | w13  | w14  |
-| ---- | :--: | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 1    |  ✔   |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| 2    |  ✔   |      |      |      |      |      |      |      |      |      |      |      |      |      |
-| 3    |      |      |      |      |      |      |      |      |      |      |      |      |      |      |
-
-
+|     | w1  | w2  | w3  | w4  | w5  | w6  | w7  | w8  | w9  | w10 | w11 | w12 | w13 | w14 |
+| --- | :-: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 2   |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| 3   |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
 ## ✒ 공부 방법
 
@@ -20,15 +18,13 @@
 2. 커널의 A부터 Z까지 다 똑같이 따라 적는다.
 3. 똑같이 3번 적고 다음 커널로 넘어간다.
 
-
-
 ## 📄 커리큘럼
 
 ### Binary Classification: Tabular Data
 
 ### [1st level. Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
-- [ ] [타이타닉 튜토리얼 1 - exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316)
+- [x] [타이타닉 튜토리얼 1 - exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316)
 - [ ] [eda to prediction(dietanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 - [ ] [titanic top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
 - [ ] [introduction to ensembling/stacking in python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
