@@ -31,7 +31,7 @@
 
 ### [2nd level. Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
-- [ ] [data preparation & exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
+- [x] [data preparation & exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
 - [ ] [interactive porto insights - a plot.ly tutorial](https://www.kaggle.com/arthurtok/interactive-porto-insights-a-plot-ly-tutorial)
 - [ ] [xgboost cv (lb .284)](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
 - [ ] [porto seguro exploratory analysis and prediction](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction)
