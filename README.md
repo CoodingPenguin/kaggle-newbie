@@ -7,10 +7,10 @@
 ## ✅ 체크표
 
 |     | w1  | w2  | w3  | w4  | w5  | w6  | w7  | w8  | w9  | w10 | w11 | w12 | w13 | w14 |
-| --- | :-: | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |
-| 2   |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| 3   |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|  1  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |
+|  2  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |
+|  3  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |
 
 ## ✒ 공부 방법
 
@@ -25,16 +25,11 @@
 ### [1st level. Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 - [x] [타이타닉 튜토리얼 1 - exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316)
-- [ ] [eda to prediction(dietanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
-- [ ] [titanic top 4% with ensemble modeling](https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling)
-- [ ] [introduction to ensembling/stacking in python](https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 
 ### [2nd level. Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
 - [x] [data preparation & exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
-- [ ] [interactive porto insights - a plot.ly tutorial](https://www.kaggle.com/arthurtok/interactive-porto-insights-a-plot-ly-tutorial)
-- [ ] [xgboost cv (lb .284)](https://www.kaggle.com/aharless/xgboost-cv-lb-284)
-- [ ] [porto seguro exploratory analysis and prediction](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction)
+- [x] [porto seguro exploratory analysis and prediction](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction)
 
 ### [3rd level. Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
 
