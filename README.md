@@ -61,7 +61,7 @@
 
 - [ ] [Fruits-360 - Transfer Learning using Keras](https://www.kaggle.com/amadeus1996/fruits-360-transfer-learning-using-keras)
 
-### [2nd level. Fruits 360](https://www.kaggle.com/zalando-research/fashionmnist)
+### [2nd level. Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist)
 
 - [ ] [How Autoencoders Work: Intro and UseCases](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
 - [ ] [CNN with Keras](https://www.kaggle.com/bugraokcu/cnn-with-keras)
