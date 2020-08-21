@@ -10,13 +10,13 @@
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  1  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |
 |  2  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |
-|  3  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |     |
+|  3  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |     |
 
 ## ✒ 공부 방법
 
-1. 필사적으로 필사한다
-2. 커널의 A부터 Z까지 다 똑같이 따라 적는다.
-3. 똑같이 3번 적고 다음 커널로 넘어간다.
+1. 첫 번째 필사 때는 이해를 하면서 적는다.
+2. 두 번째 필사 때는 첫 번째 필사한 것을 바탕으로 깔끔하게 정리한다.
+3. 세 번째 필사 때는 코드 위주로 필사한다.
 
 ## 📄 커리큘럼
 
@@ -33,7 +33,7 @@
 
 ### [3rd level. Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
 
-- [ ] [introduction: home credit default risk competition](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
+- [x] [introduction: home credit default risk competition](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 
 ### Multi-class Classification: Tabular Data
 
