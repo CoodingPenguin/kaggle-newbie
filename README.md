@@ -33,15 +33,13 @@
 
 ### [3rd level. Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
 
-- [x] [introduction: home credit default risk competition](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
+- [x] [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 
 ### Multi-class Classification: Tabular Data
 
 ### [1st level. Costa-rican competition](https://www.kaggle.com/c/cost)
 
 - [ ] [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
-- [ ] [3250feats->532 feats using shap[LB: 0.436]](https://www.kaggle.com/youhanlee/3250feats-532-feats-using-shap-lb-0-436)
-- [ ] [XGBoost](https://www.kaggle.com/skooch/xgboost)
 
 ### Binary Classification: Image Classification
 
