@@ -37,7 +37,7 @@
 
 ### Multi-class Classification: Tabular Data
 
-### [1st level. Costa-rican competition](https://www.kaggle.com/c/cost)
+### [1st level. Costa-rican competition](https://www.kaggle.com/c/costa-rican-household-poverty-prediction)
 
 - [x] [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 
