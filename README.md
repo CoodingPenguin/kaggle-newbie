@@ -8,8 +8,8 @@
 
 |     | w1  | w2  | w3  | w4  | w5  | w6  | w7  | w8  | w9  | w10 | w11 | w12 | w13 | w14 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  1  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |
-|  2  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |
+|  1  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |
+|  2  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |
 |  3  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |     |
 
 ## ✒ 공부 방법
@@ -45,10 +45,8 @@
 
 ### [1st level. Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
 
-- [ ] [keras model for beginners (0.210 on lb)+eda+r&d](https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d)
-- [ ] [transfer learning with vgg-16 cnn+aug lb 0.1712](https://www.kaggle.com/devm2024/transfer-learning-with-vgg-16-cnn-aug-lb-0-1712)
-- [ ] [submarineering.even better public score until now.](https://www.kaggle.com/submarineering/submarineering-even-better-public-score-until-now)
-- [ ] [keras+tf lb 0.18](https://www.kaggle.com/wvadim/keras-tf-lb-0-18)
+- [x] [keras model for beginners (0.210 on lb)+eda+r&d](https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d)
+- [x] [keras+tf lb 0.18](https://www.kaggle.com/wvadim/keras-tf-lb-0-18)
 
 ### Multi-class Classification: Image Classification
 
