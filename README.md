@@ -50,7 +50,7 @@
 
 ### Multi-class Classification: Image Classification
 
-### [1st level. Fruits 360](https://www.kaggle.com/uciml/mush)
+### [1st level. Fruits 360](https://www.kaggle.com/moltean/fruits)
 
 - [ ] [Fruits-360 - Transfer Learning using Keras](https://www.kaggle.com/amadeus1996/fruits-360-transfer-learning-using-keras)
 
