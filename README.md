@@ -8,9 +8,9 @@
 
 |     | w1  | w2  | w3  | w4  | w5  | w6  | w7  | w8  | w9  | w10 | w11 | w12 | w13 | w14 |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  1  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |
-|  2  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |
-|  3  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |     |
+|  1  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |
+|  2  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |
+|  3  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |
 
 ## ✒ 공부 방법
 
@@ -56,8 +56,8 @@
 
 ### [2nd level. Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist)
 
-- [ ] [How Autoencoders Work: Intro and UseCases](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
-- [ ] [CNN with Keras](https://www.kaggle.com/bugraokcu/cnn-with-keras)
+- [x] [How Autoencoders Work: Intro and UseCases](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
+- [x] [CNN with Keras](https://www.kaggle.com/bugraokcu/cnn-with-keras)
 
 ### Regression: Tabular data
 
