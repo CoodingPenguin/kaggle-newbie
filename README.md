@@ -45,8 +45,8 @@
 
 ### [1st level. Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
 
-- [x] [keras model for beginners (0.210 on lb)+eda+r&d](https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d)
-- [x] [keras+tf lb 0.18](https://www.kaggle.com/wvadim/keras-tf-lb-0-18)
+- [x] [Keras Model for Beginners (0.210 on lb) + EDA + R&D](https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d)
+- [x] [Keras + TF LB 0.18](https://www.kaggle.com/wvadim/keras-tf-lb-0-18)
 
 ### Multi-class Classification: Image Classification
 
@@ -63,9 +63,8 @@
 
 ### [1st level. New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 
-- [ ] [dynamics of new york city - animation](https://www.kaggle.com/drgilermo/dynamics-of-new-york-city-animation)
-- [ ] [eda + baseline model](https://www.kaggle.com/aiswaryaramachandran/eda-baseline-model-0-40-rmse)
-- [ ] [beat the benchmark!](https://www.kaggle.com/danijelk/beat-the-benchmark)
+- [ ] [From EDA to the Top (LB 0.367)](https://www.kaggle.com/gaborfodor/from-eda-to-the-top-lb-0-367)
+- [ ] [EDA + Baseline Model](https://www.kaggle.com/aiswaryaramachandran/eda-baseline-model-0-40-rmse)
 
 ### [2nd level. Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1)
 
