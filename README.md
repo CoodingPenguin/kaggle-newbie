@@ -1,30 +1,27 @@
-# 눈누난나 NunnuNanna 캐글 스터디
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/CoodingPenguin/">
+    <img src="logo.png" alt="Logo" height="128">
+  </a>
+  <h3>Kaggle Newbie</h3>
+  <small>✍ Kaggle Notebook을 필사하며 배우는 인공지능</small>
+</div>
 
-데이터분석 기술 스터디 그룹 눈누난나 NunnuNanna의 14주차 캐글 스터디 과제입니다.
+## 📝 필사 목록
 
-캐글 코리아 블로그에 올라온 [이유한 님의 캐글 커널 커리큘럼](https://kaggle-kr.tistory.com/32)을 따라 데이터 분석 기술을 공부합니다.
+> 캐글 코리아 블로그에 올라온 [이유한 님의 캐글 커널 커리큘럼](https://kaggle-kr.tistory.com/32)을 참고하였습니다.
 
-## ✅ 체크표
-
-|     | w1  | w2  | w3  | w4  | w5  | w6  | w7  | w8  | w9  | w10 | w11 | w12 | w13 | w14 |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  1  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |
-|  2  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |
-|  3  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |  ✔  |     |     |     |     |     |     |     |     |
-
-## ✒ 공부 방법
-
-1. 첫 번째 필사 때는 이해를 하면서 적는다.
-2. 두 번째 필사 때는 첫 번째 필사한 것을 바탕으로 깔끔하게 정리한다.
-3. 세 번째 필사 때는 코드 위주로 필사한다.
-
-## 📄 커리큘럼
-
-### Binary Classification: Tabular Data
-
-### [1st level. Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-
-- [x] [타이타닉 튜토리얼 1 - exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316)
+|                                                                 제목                                                                 |                  데이터셋                   | 필사일 | 필사횟수 |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------: | :----: | :------: |
+| [타이타닉 튜토리얼 1 - exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316) | [Titanic](https://www.kaggle.com/c/titanic) |        |          |
+|                                                                                                                                      |                                             |        |          |
+|                                                                                                                                      |                                             |        |          |
+|                                                                                                                                      |                                             |        |          |
+|                                                                                                                                      |                                             |        |          |
+|                                                                                                                                      |                                             |        |          |
+|                                                                                                                                      |                                             |        |          |
+|                                                                                                                                      |                                             |        |          |
 
 ### [2nd level. Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
@@ -58,61 +55,3 @@
 
 - [x] [How Autoencoders Work: Intro and UseCases](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
 - [x] [CNN with Keras](https://www.kaggle.com/bugraokcu/cnn-with-keras)
-
-### Regression: Tabular data
-
-### [1st level. New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
-
-- [ ] [From EDA to the Top (LB 0.367)](https://www.kaggle.com/gaborfodor/from-eda-to-the-top-lb-0-367)
-- [ ] [EDA + Baseline Model](https://www.kaggle.com/aiswaryaramachandran/eda-baseline-model-0-40-rmse)
-
-### [2nd level. Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1)
-
-- [ ] [simple exploration notebook - zillow prize](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize)
-- [ ] [simple xgboost starter (~0.0655)](https://www.kaggle.com/anokas/simple-xgboost-starter-0-0655)
-- [ ] [zillow eda on missing values & multicollinearity](https://www.kaggle.com/viveksrinivasan/zillow-eda-on-missing-values-multicollinearity)
-- [ ] [xgboost, lightgbm, and ols and nn](https://www.kaggle.com/aharless/xgboost-lightgbm-and-ols-and-nn)
-
-### Object segmentation: Deep learning
-
-### [1st level. 2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018)
-
-- [ ] [teaching notebook for total imaging newbies](https://www.kaggle.com/stkbailey/teaching-notebook-for-total-imaging-newbies)
-- [ ] [keras u-net starter - lb 0.277](https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277)
-- [ ] [nuclei overview to submission](https://www.kaggle.com/kmader/nuclei-overview-to-submission)
-
-### Natural language processing: classification, regression
-
-### [1st level. Spooky Author Identification](https://www.kaggle.com/c/spooky-author-identification)
-
-- [ ] [spooky nlp and topic modelling tutorial](https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial)
-- [ ] [approaching (almost) any nlp problem on kaggle](https://www.kaggle.com/abhishek/approaching-almost-any-nlp-problem-on-kaggle)
-- [ ] [simple feature engg notebook - spooky author](https://www.kaggle.com/sudalairajkumar/simple-feature-engg-notebook-spooky-author)
-
-### [2nd level. Mercari Price Suggestion Challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge)
-
-- [ ] [mercari interactive eda + topic modelling](https://www.kaggle.com/thykhuely/mercari-interactive-eda-topic-modelling)
-- [ ] [a simple nn solution with keras (~0.48611 pl)](https://www.kaggle.com/knowledgegrappler/a-simple-nn-solution-with-keras-0-48611-pl)
-- [ ] [ridge (lb 0.41943)](https://www.kaggle.com/rumbok/ridge-lb-0-41944)
-- [ ] [LGB and FM [18th Place - 0.40604]](https://www.kaggle.com/peterhurford/lgb-and-fm-18th-place-0-40604)
-
-### [3rd level. Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
-
-- [ ] [[For Beginners] Tackling Toxic Using Keras](https://www.kaggle.com/sbongo/for-beginners-tackling-toxic-using-keras)
-- [ ] [stop the s@#\$ - toxic comments eda](https://www.kaggle.com/jagangupta/stop-the-s-toxic-comments-eda)
-- [ ] [logistic regression with words and char n-grams](https://www.kaggle.com/tunguz/logistic-regression-with-words-and-char-n-grams)
-- [ ] [classifying multi-label comments (0.9741 lb)](https://www.kaggle.com/rhodiumbeng/classifying-multi-label-comments-0-9741-lb)
-
-### Other dataset : anomaly detection, visualization
-
-### [1st level. Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-
-- [ ] [in depth skewed data classif. (93% recall acc now)](https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now)
-- [ ] [anomaly detection - credit card fraud analysis](https://www.kaggle.com/pavansanagapati/anomaly-detection-credit-card-fraud-analysis)
-- [ ] [semi-supervised anomaly detection survey](https://www.kaggle.com/matheusfacure/semi-supervised-anomaly-detection-survey)
-
-### [2nd level. Kaggle Machine Learning & Data Science Survey 2017](https://www.kaggle.com/kaggle/kaggle-survey-2017)
-
-- [ ] [novice to grandmaster](https://www.kaggle.com/ash316/novice-to-grandmaster)
-- [ ] [what do kagglers say about data science ?](https://www.kaggle.com/mhajabri/what-do-kagglers-say-about-data-science)
-- [ ] [plotly tutorial - 1](https://www.kaggle.com/hakkisimsek/plotly-tutorial-1)
