@@ -12,46 +12,40 @@
 
 > 캐글 코리아 블로그에 올라온 [이유한 님의 캐글 커널 커리큘럼](https://kaggle-kr.tistory.com/32)을 참고하였습니다.
 
-|                                                                 제목                                                                 |                  데이터셋                   | 필사일 | 필사횟수 |
-| :----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------: | :----: | :------: |
-| [타이타닉 튜토리얼 1 - exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316) | [Titanic](https://www.kaggle.com/c/titanic) |        |          |
-|                                                                                                                                      |                                             |        |          |
-|                                                                                                                                      |                                             |        |          |
-|                                                                                                                                      |                                             |        |          |
-|                                                                                                                                      |                                             |        |          |
-|                                                                                                                                      |                                             |        |          |
-|                                                                                                                                      |                                             |        |          |
-|                                                                                                                                      |                                             |        |          |
+### [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
-### [2nd level. Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
+- [타이타닉 튜토리얼 - exploratory data analysis, visualization, machine learning](https://kaggle-kr.tistory.com/17?category=868316) by **[YouhanLee](https://www.kaggle.com/youhanlee)**
+  - `2020.08.05` `2020.08.07` `2020.08.08`
+- [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic) by **[Ashiwini Swain](https://www.kaggle.com/ash316)**
+  - `2020.08.06`
 
-- [x] [data preparation & exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration)
-- [x] [porto seguro exploratory analysis and prediction](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction)
+### [Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
-### [3rd level. Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
+- [Data Preparation & Exploration](https://www.kaggle.com/bertcarremans/data-preparation-exploration) by **[Bert Carremans](https://www.kaggle.com/bertcarremans)**
+  - `2020.08.10` `2020.08.12` `2020.08.13`
+- [Porto Seguro Exploratory Analysis and Prediction](https://www.kaggle.com/gpreda/porto-seguro-exploratory-analysis-and-prediction) by **[Gabriel Preda](gpreda)**
+  - `2020.08.14` `2020.08.15` `2020.08.15`
 
-- [x] [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
+### [Home Credit Default Risk](https://www.kaggle.com/c/home-credit-default-risk)
 
-### Multi-class Classification: Tabular Data
+- [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction) by **[Will Koehrsen](https://www.kaggle.com/willkoehrsen)**
+  - `2020.08.17` `2020.08.21` `2020.08.21`
 
-### [1st level. Costa-rican competition](https://www.kaggle.com/c/costa-rican-household-poverty-prediction)
+### [Costa-rican competition](https://www.kaggle.com/c/costa-rican-household-poverty-prediction)
 
-- [x] [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
+- [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough) by **[Will Koehrsen](https://www.kaggle.com/willkoehrsen)**
+  - `2020.08.24` `2020.08.28` `2020.08.29`
 
-### Binary Classification: Image Classification
+### [Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
 
-### [1st level. Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
+- [Keras Model for Beginners (0.210 on lb) + EDA + R&D](https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d) by \*\*[SKS](https://www.kaggle.com/devm2024)
+  - `2020.09.01` `2020.09.02` `2020.09.02`
+- [Keras + TF LB 0.18](https://www.kaggle.com/wvadim/keras-tf-lb-0-18) by **[wvadim](https://www.kaggle.com/wvadim)**
+  - `2020.09.05` `2020.09.05` `2020.09.06`
 
-- [x] [Keras Model for Beginners (0.210 on lb) + EDA + R&D](https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d)
-- [x] [Keras + TF LB 0.18](https://www.kaggle.com/wvadim/keras-tf-lb-0-18)
+### [Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist)
 
-### Multi-class Classification: Image Classification
-
-### [1st level. Fruits 360](https://www.kaggle.com/moltean/fruits)
-
-- [ ] [Fruits-360 - Transfer Learning using Keras](https://www.kaggle.com/amadeus1996/fruits-360-transfer-learning-using-keras)
-
-### [2nd level. Fashion MNIST](https://www.kaggle.com/zalando-research/fashionmnist)
-
-- [x] [How Autoencoders Work: Intro and UseCases](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
-- [x] [CNN with Keras](https://www.kaggle.com/bugraokcu/cnn-with-keras)
+- [How Autoencoders Work: Intro and UseCases](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases) by **[Shivam Bansal](https://www.kaggle.com/shivamb)**
+  - `2020.09.10` `2020.09.12` `2020.09.12`
+- [CNN with Keras](https://www.kaggle.com/bugraokcu/cnn-with-keras) by **[bgo](https://www.kaggle.com/bugraokcu)**
+  - `2020.09.10` `2020.09.12` `2020.09.13`
