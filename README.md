@@ -38,7 +38,7 @@
 
 ### [Statoil/C-CORE Iceberg Classifier Challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
 
-- [Keras Model for Beginners (0.210 on lb) + EDA + R&D](https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d) by \*\*[SKS](https://www.kaggle.com/devm2024)
+- [Keras Model for Beginners (0.210 on lb) + EDA + R&D](https://www.kaggle.com/devm2024/keras-model-for-beginners-0-210-on-lb-eda-r-d) by **[SKS](https://www.kaggle.com/devm2024)**
   - `2020.09.01` `2020.09.02` `2020.09.02`
 - [Keras + TF LB 0.18](https://www.kaggle.com/wvadim/keras-tf-lb-0-18) by **[wvadim](https://www.kaggle.com/wvadim)**
   - `2020.09.05` `2020.09.05` `2020.09.06`
